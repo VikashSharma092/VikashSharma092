@@ -1,5 +1,5 @@
 "# VikashSharma092" 
-# 👋 Hi, I'm Vikash Kumar Sharma
+# 👋 Hi, I'm Vikash Sharma
 
 ### 💻 Computer Science Undergraduate | C++ | DSA | Web Development | Game Development
 
@@ -44,6 +44,7 @@ To become a strong **Software Engineer** with solid problem-solving, development
 
 * 🐙 GitHub: [VikashSharma092](https://github.com/VikashSharma092)
 * 💼 LinkedIn: [Vikash Kumar Sharma](https://www.linkedin.com/in/vikash-kumar-sharma-07a598316/)
+* 📧 Email: [vikashkrsharma03@gmail.com](mailto:vikashkrsharma03@gmail.com)
 
 ---
 
